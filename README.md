@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Information à propos de la partie login et signup
-Dans cette partie on essayé de gerer les différentes exceptions en affichant un message indiquant la source d'exception comme : username qui existe, base de données non démarré ....
+Dans cette partie on a essayé de gerer les différentes exceptions en affichant un message indiquant la source d'exception comme : username qui existe, base de données non démarré ....
 
 ## Available Scripts
 
